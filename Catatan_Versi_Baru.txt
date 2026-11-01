@@ -1,0 +1,35 @@
+=========================================================
+WEB KUCING - VERSI BARU: ELEGAN + HYPERACTIVE
+=========================================================
+Yang berubah dari versi sebelumnya:
+
+DESAIN (elegan):
+- Tema "Le Chat Elegant": warna ivory + emas + cokelat espresso,
+  judul huruf serif (Playfair Display), aksen garis emas.
+
+SUARA (suara kucing asli, bukan buatan):
+- Dengkur (purr) asli si kucing oren: suara halusnya saat dielus
+  sampai merem-melek, sudah dibersihkan + dikeraskan.
+- Meong NATURAL asli: tiga bunyi meong sungguhan si kucing,
+  diputar bergantian setiap tombol Meong ditekan / kucingnya diklik.
+- Kedua suara itu DITANAM di dalam file kucing.html, jadi tetap
+  cukup upload 1 file saja.
+- File suaranya terpisah juga ada buat kamu dengarkan / simpan:
+  suara_asli_dengkur.mp3 dan suara_meong_asli.mp3 (gabungan 3 meong).
+
+GERAK (hyperactive):
+- Mode Zoomies: kucing lari keliling panggung bolak-balik.
+- Kejar Kupu-kupu: kupu-kupu terbang, kucing mengejar lalu MELOMPAT menerkam.
+- Kejar Bola Benang: benang menggelinding, kucing mengejarnya.
+- Salto: kucing salto 360 derajat di udara.
+- Klik kucingnya: reaksi selalu beda (lompat, meong, kalimat acak, hujan hati).
+- Mata kucing mengikuti gerakan kursor; telinga berkedut; ekor makin
+  cepat kalau lagi lari; bintang emas beterbangan di panggung.
+- Tombol "Hentikan semua gerakan" ada di bawah tombol Alur Lengkap.
+
+CARA PAKAI FILE BARU INI:
+Cukup upload ULANG file kucing.html ini ke GitHub, menimpa file lama:
+1. Buka repository Kucing kamu.
+2. Add file > Upload files > pilih kucing.html yang BARU ini.
+3. Commit changes. Tunggu 1-3 menit, refresh webnya.
+Tidak perlu upload file lain - gambar & suara sudah di dalam 1 file itu.
